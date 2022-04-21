@@ -60,7 +60,6 @@ int main()
 	char* dest = new char[151];
 	dest = Change(str);
 
-	cout << "Модифiкований лiтерний рядок (param) : " << str << endl;
 	cout << "Модифiкований лiтерний рядок (result): " << dest << endl;
 
 	return 0;
